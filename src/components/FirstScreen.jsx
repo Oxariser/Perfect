@@ -27,7 +27,7 @@ export default function FirstScreen({ onNext }) {
                     className="text-4xl md:text-6xl text-center mb-5 max-w-3xl text-balance leading-tight text-foreground font-medium"
                 >
                     There is something
-                    I want to tell you
+                    I want to tell you, Afiii😍
                 </motion.h1>
 
                 <motion.p
@@ -36,7 +36,7 @@ export default function FirstScreen({ onNext }) {
                     transition={{ delay: 0.5, duration: 0.8 }}
                     className="text-lg text-foreground/90 text-center max-w-md mb-10 font-light"
                 >
-                    I hope you feel this
+                    I hope you feel this🌹
                 </motion.p>
 
                 {/* button */}
